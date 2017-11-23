@@ -21,7 +21,7 @@ code.codecolorer { padding: 2px; }
 /* Constant */
 .codecolorer .nu0, .codecolorer .re3 { color: #0080A0; }
 /* String */
-.codecolorer .st0, .codecolorer .st_h, .codecolorer .es0, .codecolorer .es1 { color: #C03030; }
+.codecolorer .st0, .codecolorer .st_h, .codecolorer .es0, .codecolorer .es1 { color: #0080A0; }
 /* Entity */
 .codecolorer .me1, .codecolorer .me2 { color: #0080FF; }
 /* Keyword */
@@ -74,7 +74,7 @@ code.codecolorer { padding: 2px; }
 	{ color: #5A525F; font-style: italic; }
 .dawn .codecolorer .nu0, .dawn .codecolorer .re3,
 	code.dawn .nu0, code.dawn .re3
-	{ color: #811F24; }
+	{ color: #0080A0; }
 .dawn .codecolorer .st0, .dawn .codecolorer .st_h, .dawn .codecolorer .es0, .dawn .codecolorer .es1,
 	code.dawn .st0, code.dawn .st_h, code.dawn .es0, code.dawn .es1
 	{ color: #0B6125; }
@@ -93,8 +93,8 @@ code.codecolorer { padding: 2px; }
 .dawn .codecolorer .br0, .dawn .codecolorer .sy0,
 	code.dawn .br0, code.dawn .sy0
 	{ color: #080808; }
-.dawn .xml .re1 { color: #A71D5D; }
-.dawn .xml .re0 { color: #811F24; }
+.dawn .xml .re1 { color: #0080A0; }
+.dawn .xml .re0 { color: #0080A0; }
 
 /* "Blackboard" color scheme */
 .blackboard, .blackboard .codecolorer { color: #F8F8F8; background-color: #0C1021; }
