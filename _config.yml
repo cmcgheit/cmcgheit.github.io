@@ -5,6 +5,3 @@ plugins:
    - jekyll-sitemap
    - jekyll-feed
    
-   
----|||layout: post|||network: github|||user: {{AuthorUsername}}|||repo: {{RepositoryName}}|||date: {{CreatedAt}}|||pr_title: {{PullRequestTitle}}|||pr_url: {{PullRequestURL}}|||title: {{PullRequestTitle}}|||tags:|||- IFTTT|||- Github|||---||| {{PullRequestBody}}
-
