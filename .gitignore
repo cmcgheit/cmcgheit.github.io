@@ -55,7 +55,7 @@ Thumbs.db
 *.key
 *.pem
 
-.DS_Store
+**/.DS_Store
 
 # --------------------------------------------------------
 # BEGIN Explictly Allowed Files (i.e. do NOT ignore these)
